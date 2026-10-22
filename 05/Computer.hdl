@@ -19,5 +19,13 @@ CHIP Computer {
     IN reset;
 
     PARTS:
-    // Put your code here:
+    // 1. Fetch instruction from ROM using Program Counter (pc)
+    ROM32K(address=pc, out=instruction);
+
+    // 2. Execute instruction using the CPU
+    CPU(inM=memOut, instruction=instruction, reset=reset, 
+        outM=outM, writeM=writeM, addressM=addressM, pc=pc);
+
+    // 3. Read/Write memory (RAM, Screen, Keyboard)
+    Memory(in=outM, load=writeM, address=addressM, out=memOut);
 }
