@@ -3,7 +3,7 @@
 
 | 週次 | 習題內容 | 課堂繳交 | 作業連結 |
 | :---: | :--- | :---: | :--- |
-| 3 | 1,2章 | 是 | [第一章](https://github.com/albertchiu2004/_co/tree/main/01) [第二章](https://github.com/albertchiu2004/_co/tree/main/02)[圖片](https://github.com/albertchiu2004/_co/blob/main/img/14218.jpg)|
+| 3 | 1,2章 | 是 | [第一章](https://github.com/albertchiu2004/_co/tree/main/01) [第二章](https://github.com/albertchiu2004/_co/tree/main/02) [圖片](https://github.com/albertchiu2004/_co/blob/main/img/14218.jpg)|
 | 4 | 3章(PC以外) | 是 | [第三章](https://github.com/albertchiu2004/_co/tree/main/03) |
 | 5 | 4章 | 是 | [第四章](https://github.com/albertchiu2004/_co/tree/main/04) |
 | 6 | HACKCPU | 是 | [HACKCPU](https://github.com/albertchiu2004/_co/blob/main/img/15540.jpg) |
